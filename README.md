@@ -1,5 +1,5 @@
 
-## Hi everyone, my name is Matheus but you can call me Japa
+### Hi everyone, my name is Matheus but you can call me Japa
 
 > I´m currently learning abaut .lua language specially focused on FiveM
 
@@ -9,4 +9,4 @@
 - I´m working on freelancers projects 
 
 Languages that i'm working with:
- .lua
+> .lua
