@@ -10,3 +10,6 @@
 
 Languages that i'm working with:
 > .lua
+
+You can contact me at my discord server: 
+- https://discord.gg/HEtBSAJuJU
